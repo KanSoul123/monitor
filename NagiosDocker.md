@@ -22,6 +22,7 @@
 5. Cài Nagios Images
      ## Tải images về máy và kiểm tra
      `docker pull jasonrivers/nagios`
+   
      `docker images`
      ![image](https://github.com/user-attachments/assets/44dd05f7-de0f-4ddc-8ba4-4ff3b617df47)
      ## Tạo thư mục
@@ -51,7 +52,7 @@
      >Lưu ý: Trong câu lệnh của bạn, khi sử dụng dấu \ để ngắt dòng, hãy chắc chắn rằng không có dấu cách sau dấu \, vì điều này có thể gây lỗi. Hãy viết lại lệnh đúng cú pháp.
      
      Truy cập web bằng <ip_của_nagios>:8080
-6. Giám sát Windows Server
+7. Giám sát Windows Server
      #### Cấu hình trong /usr/local/etc/nagios/etc/objects file windows.cfg
      ![image](https://github.com/user-attachments/assets/b163bbb4-1eef-4b73-997d-50a832dec3a5)
    
