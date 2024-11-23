@@ -54,6 +54,7 @@
      >Lưu ý: Trong câu lệnh của bạn, khi sử dụng dấu \ để ngắt dòng, hãy chắc chắn rằng không có dấu cách sau dấu \, vì điều này có thể gây lỗi. Hãy viết lại lệnh đúng cú pháp.
      
      Truy cập web bằng <ip_của_nagios>:8080
+   
    Tài khoản mặc định là: nagiosadmin/nagios
    
 7. Giám sát Windows Server
