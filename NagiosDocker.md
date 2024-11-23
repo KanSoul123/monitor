@@ -24,7 +24,9 @@
      `docker pull jasonrivers/nagios`
    
      `docker images`
+   
      ![image](https://github.com/user-attachments/assets/44dd05f7-de0f-4ddc-8ba4-4ff3b617df47)
+   
      ## Tạo thư mục
      #### Tạo thư mục nagios trong đường dẫn /usr/local/etc
       `/usr/local/etc# mkdir nagios`
