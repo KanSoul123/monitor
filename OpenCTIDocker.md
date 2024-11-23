@@ -31,7 +31,10 @@
   ### Vào thư mục opencti và tải 
   `git clone https://github.com/OpenCTI-Platform/docker.git`
   
-  Tải xong thì xuất hiện thư mực docker trong opencti vào thư mục docker 
+  Tải xong thì xuất hiện thư mực docker trong opencti vào thư mục docker
+  > pwd : /root/opencti
+
+  `cd docker`
   ### Cấu hình môi trường trong file .env
   ```
   sudo apt install -y jq
