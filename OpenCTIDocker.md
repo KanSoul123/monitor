@@ -35,7 +35,6 @@
   ### Cấu hình môi trường trong file .env
   ```
   sudo apt install -y jq
-  cd ~/docker
   (cat << EOF
   OPENCTI_ADMIN_EMAIL=admin@opencti.io
   OPENCTI_ADMIN_PASSWORD=ChangeMePlease
