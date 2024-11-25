@@ -27,7 +27,7 @@
   `sudo apt install docker-compose`
 ## 2. Cài OpenCTI
   ### Tạo thư mục chứa Images OpenCti (mình tạo trong đường dẫn /root/opencti)
-  `cd /root/ | mkdir opencti`
+  `cd /root/ && mkdir opencti`
   ### Vào thư mục opencti và tải 
   `git clone https://github.com/OpenCTI-Platform/docker.git`
   
