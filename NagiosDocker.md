@@ -45,7 +45,7 @@
        -v /usr/local/etc/nagios/var:/opt/nagios/var/ \
        -v /usr/local/etc/nagios/custom-plugins:/opt/Custom-Nagios-Plugins \
        -v /usr/local/etc/nagios/graph-var:/opt/nagiosgraph/var \
-       -v /usr/local/etc/nagioss/graph-etc:/opt/nagiosgraph/etc \
+       -v /usr/local/etc/nagios/graph-etc:/opt/nagiosgraph/etc \
        -dp 8080:80 jasonrivers/nagios:latest
      ```
      Khi bạn sử dụng tham số -v trong Docker, bạn đang mount một thư mục từ máy chủ (host) vào một thư mục trong container. Tuy nhiên, có một số điểm cần lưu ý:
